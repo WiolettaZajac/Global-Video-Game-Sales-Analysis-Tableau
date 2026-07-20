@@ -89,14 +89,7 @@ The dataset includes information on video game sales worldwide from **1980–201
 
 ## 📸 Dashboard Preview
 
-
-
-
-
-
-
-
-
+![Global Video Game Sales Dashboard](images/tableau_project_dashboard.png)
 
 
 ## 💡 Key Insights
