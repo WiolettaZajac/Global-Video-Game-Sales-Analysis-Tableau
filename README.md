@@ -68,9 +68,12 @@ Before creating the dashboard, the data was prepared by:
 - Calculated Fields
 - Data Visualisation
 
+
 ## 📁 Files
 
 - [Tableau Workbook](dashboard/global_video_game_sales_dashboard.twbx) – Source workbook for the interactive dashboard.
+- [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/wioletta.zajac/viz/GlobalVideoGameSalesAnalysisTableauDashboard/VideoGameSalesAnalysisDashboard19802010) – View the dashboard on Tableau Public.
+
 
 ## 📷 Dashboard Preview
 
@@ -110,7 +113,6 @@ By overcoming these challenges, I improved my Tableau skills, gained confidence 
 ## 🎯 Skills Demonstrated
 
 - Data preparation
-- Tableau
 - Interactive dashboard design
 - Dashboard actions
 - Filters
@@ -118,16 +120,14 @@ By overcoming these challenges, I improved my Tableau skills, gained confidence 
 - Data visualisation
 - Exploratory data analysis (EDA)
 - Business intelligence
-- Turning raw data into clear business insights
+- Business insight generation
 
 ## 🚀 About This Project
 
-This project is part of my data analytics portfolio. It helped me improve my Tableau skills, particularly in dashboard design, data visualisation, and business analysis.
+This project is part of my data analytics portfolio and demonstrates my ability to prepare data, build interactive dashboards, and communicate business insights using Tableau.
 
-During this project, I learned how to transform historical sales data into interactive dashboards and present business insights in a clear and engaging way. I look forward to continuing to build projects using Tableau and other data analytics tools.
+During this project, I learned how to transform historical sales data into interactive visualisations, apply dashboard actions and filters, and present insights in a clear and engaging way. I look forward to continuing to build projects using Tableau and other data analytics tools.
 
 ## 👤 Author
 
 **Wioletta Zajac**
-
-[View my Tableau Public Portfolio](https://public.tableau.com/app/profile/wioletta.zajac)
