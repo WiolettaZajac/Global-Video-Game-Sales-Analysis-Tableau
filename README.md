@@ -1,30 +1,36 @@
 # 🎮 Global Video Game Sales Analysis (Tableau)
 
-This project is an interactive dashboard created in Tableau to analyse global video game sales data between **1980 and 2010**. The dashboard presents business insights through interactive visualisations, allowing users to explore sales trends, regional performance, platform popularity, publisher performance, and genre popularity.
+This project is an interactive dashboard built in Tableau using historical video game sales data from **1980 to 2010**.
 
-The project involved preparing and analysing historical sales data, creating interactive visualisations, and identifying trends to support business decision-making.
+The dashboard explores global and regional sales trends, platform performance, publisher performance, and genre popularity through interactive visualisations.
 
-## 🎯 Project Aim
+I created this project to practise using Tableau while working with a real-world dataset and to improve my dashboard design and data visualisation skills.
 
-The main goals of this project were to:
+---
+
+## 🎯 Project Objectives
 
 - Prepare the video game sales data for analysis.
-- Analyse historical sales performance using Tableau.
+- Analyse historical sales trends using Tableau.
 - Build an interactive dashboard with filters and dashboard actions.
-- Identify trends in sales across years, regions, platforms, publishers, and genres.
-- Present the results in a clear and easy-to-understand format.
+- Compare sales across years, regions, platforms, publishers, and genres.
+- Present key insights in a clear and interactive dashboard.
+
+---
 
 ## 📊 Live Dashboard
 
 🔗 **[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/wioletta.zajac/viz/GlobalVideoGameSalesAnalysisTableauDashboard/VideoGameSalesAnalysisDashboard19802010)**
 
+---
+
 ## 📂 Dataset
 
-The dataset contains historical video game sales between **1980 and 2010**. Each record includes information about the game title, platform, publisher, genre, release year, regional sales, and global sales.
+The dataset contains historical video game sales between **1980 and 2010**.
 
-The data was prepared before being analysed in Tableau to create the interactive dashboard.
+Each record includes information about the game title, platform, publisher, genre, release year, regional sales, and global sales.
 
-The main columns include:
+Before building the dashboard, I reviewed and prepared the data to make sure it was suitable for analysis in Tableau.
 
 | Column | Description |
 |---------|-------------|
@@ -41,9 +47,11 @@ The main columns include:
 
 **Dataset Source:** Kaggle – Video Game Sales Dataset
 
+---
+
 ## 🧹 Data Preparation
 
-Before creating the dashboard, the data was prepared by:
+The data preparation process included:
 
 - Checking for missing values.
 - Reviewing data types.
@@ -51,14 +59,18 @@ Before creating the dashboard, the data was prepared by:
 - Validating regional and global sales values.
 - Removing unnecessary fields.
 
-## 📊 Features
+---
+
+## 📊 Dashboard Features
 
 - Global sales analysis
 - Regional sales comparison
 - Platform performance analysis
 - Publisher performance analysis
 - Genre popularity analysis
-- Interactive dashboard with filters and dashboard actions
+- Interactive filters and dashboard actions
+
+---
 
 ## 🛠️ Tools Used
 
@@ -68,28 +80,34 @@ Before creating the dashboard, the data was prepared by:
 - Calculated Fields
 - Data Visualisation
 
+---
 
-## 📁 Files
+## 📁 Project Files
 
-- [Tableau Workbook](dashboard/global_video_game_sales_dashboard.twbx) – Source workbook for the interactive dashboard.
-- [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/wioletta.zajac/viz/GlobalVideoGameSalesAnalysisTableauDashboard/VideoGameSalesAnalysisDashboard19802010) – View the dashboard on Tableau Public.
+- [global_video_game_sales_dashboard.twbx](dashboard/global_video_game_sales_dashboard.twbx)
+- [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/wioletta.zajac/viz/GlobalVideoGameSalesAnalysisTableauDashboard/VideoGameSalesAnalysisDashboard19802010)
 
+---
 
 ## 📷 Dashboard Preview
 
-The dashboard allows users to interact with the data using filters to explore video game sales by year, region, platform, publisher, and genre.
+The dashboard includes interactive filters that allow users to explore video game sales by year, region, platform, publisher, and genre.
 
 ![Global Video Game Sales Dashboard](images/tableau_project_dashboard.png)
 
-## ❓ Business Questions Answered
+---
 
-This dashboard helps answer questions such as:
+## ❓ Business Questions
+
+The dashboard helps answer questions such as:
 
 - Which years recorded the highest video game sales?
 - Which platforms were the most successful?
 - Which publishers generated the highest sales?
 - Which genres were the most popular?
 - How did sales differ across regions?
+
+---
 
 ## 📈 Key Insights
 
@@ -99,34 +117,43 @@ This dashboard helps answer questions such as:
 - Sales patterns varied across different regions.
 - Platform popularity changed significantly over time.
 
-## ⚠️ Challenges Faced
+---
 
-During this project, I faced a few challenges that helped me improve my Tableau and data visualisation skills.
+## 💡 What I Learned
 
-- Learning how to build interactive dashboards using Tableau.
-- Creating filters and dashboard actions that updated multiple visualisations.
-- Choosing the most effective charts to present different aspects of the data.
+This project gave me more experience building dashboards in Tableau and helped me become more comfortable using interactive features.
+
+Some of the things I found most challenging were:
+
+- Learning how dashboard actions work.
+- Creating filters that updated multiple visualisations.
+- Choosing the most effective charts for different types of data.
 - Turning historical sales data into meaningful business insights.
 
-By overcoming these challenges, I improved my Tableau skills, gained confidence in building interactive dashboards, and learned how to communicate insights more effectively through data visualisation.
+Working through these challenges improved my Tableau skills and gave me more confidence designing dashboards that are both interactive and easy to use.
+
+---
 
 ## 🎯 Skills Demonstrated
 
 - Data preparation
 - Interactive dashboard design
-- Dashboard actions
+- Dashboard Actions
 - Filters
-- Calculated fields
+- Calculated Fields
 - Data visualisation
-- Exploratory data analysis (EDA)
+- Exploratory Data Analysis (EDA)
 - Business intelligence
-- Business insight generation
+
+---
 
 ## 🚀 About This Project
 
-This project is part of my data analytics portfolio and demonstrates my ability to prepare data, build interactive dashboards, and communicate business insights using Tableau.
+This project is part of my data analytics portfolio.
 
-During this project, I learned how to transform historical sales data into interactive visualisations, apply dashboard actions and filters, and present insights in a clear and engaging way. I look forward to continuing to build projects using Tableau and other data analytics tools.
+It gave me practical experience preparing data, building interactive dashboards in Tableau, and presenting sales trends through data visualisation.
+
+---
 
 ## 👤 Author
 
