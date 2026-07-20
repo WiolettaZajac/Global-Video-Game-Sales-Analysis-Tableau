@@ -33,18 +33,19 @@ Users can:
 
 This dashboard answers questions such as:
 
-- Which years generated the highest video game sales?
+- Which years had the highest video game sales?
 - Which platforms were the most successful?
-- Which publishers dominated the market?
-- What genres generated the highest sales?
+- Which publishers sold the most games?
+- Which genres generated the highest sales?
 - Which games achieved the highest global sales?
-- How do consumer preferences differ across regions?
+- How do sales differ across regions?
 
 ---
-
 ## 📂 Dataset
 
-The dataset includes information on video game sales worldwide from **1980–2010**, including:
+The dataset contains historical video game sales between **1980 and 2010**.
+
+It includes:
 
 - Game Name
 - Platform
@@ -57,56 +58,152 @@ The dataset includes information on video game sales worldwide from **1980–201
 - Other Sales
 - Global Sales
 
+**Dataset Source:** Kaggle – Video Game Sales Dataset
+
+---
+
+## 🧹 Data Preparation
+
+Before creating the dashboard, the dataset was checked and prepared.
+
+The preparation included:
+
+- Checking for missing values
+- Reviewing data types
+- Formatting the release year
+- Checking that regional sales matched global sales
+- Removing unnecessary fields
+- Preparing the data for Tableau
+
+---
+
+## 🔄 Project Workflow
+
+1. Collected the dataset
+2. Cleaned and prepared the data
+3. Imported the data into Tableau
+4. Created calculated fields
+5. Built the dashboard
+6. Added interactive filters
+7. Improved the dashboard layout
+8. Published the dashboard on Tableau Public
+
 ---
 
 ## 📈 Dashboard Features
 
-✔ Interactive filters
+- ✅ Interactive filters
+- ✅ Global sales trends
+- ✅ Regional sales comparison
+- ✅ Sales by platform
+- ✅ Sales by publisher
+- ✅ Sales by genre
+- ✅ Top-selling video games
+- ✅ Interactive dashboard navigation
 
-✔ Global sales trend analysis
+---
 
-✔ Regional sales comparison
+## 📌 Key Performance Indicators (KPIs)
 
-✔ Sales by platform
+The dashboard includes:
 
-✔ Sales by publisher
+- Total Global Sales
+- Number of Video Games
+- Number of Publishers
+- Number of Platforms
+- Best-selling Genre
+- Highest-selling Publisher
 
-✔ Sales by genre
+---
 
-✔ Top-selling video games
+## 📸 Dashboard Preview
 
-✔ Dynamic dashboard navigation
+![Global Video Game Sales Dashboard](images/dashboard.png)
+
+---
+
+## 💡 Key Insights
+
+- Nintendo was the leading publisher during the period analysed.
+- North America recorded the highest overall video game sales.
+- Action and Sports were the best-selling genres.
+- Platform popularity changed over time as new consoles were released.
+- Sales patterns varied between regions, showing different player preferences.
+
+---
+
+## 📌 Business Recommendations
+
+Based on the analysis:
+
+- Focus future game development on popular genres such as Action and Sports.
+- Adapt marketing strategies to suit different regional preferences.
+- Consider platform popularity when planning future game releases.
+- Focus on markets with strong sales potential.
 
 ---
 
 ## 🛠️ Tools Used
 
 - Tableau Public
-- Data Visualization
+- Data Visualisation
 - Business Intelligence
 - Dashboard Design
-- Data Analysis
+- Exploratory Data Analysis (EDA)
 
 ---
 
-## 📸 Dashboard Preview
+## 🚀 Skills Demonstrated
 
-![Global Video Game Sales Dashboard](tableau_project_dashboard.png)
+### Data Analysis
 
+- Exploratory Data Analysis (EDA)
+- Trend Analysis
+- KPI Reporting
 
-## 💡 Key Insights
+### Tableau
 
-- Nintendo dominated the market during the analyzed period.
-- Action and Sports were among the highest-selling genres.
-- North America generated the highest overall sales.
-- Several iconic titles continued to outperform competitors years after release.
-- Platform popularity shifted significantly over time.
+- Interactive Dashboards
+- Dashboard Actions
+- Filters
+- Calculated Fields
+- Data Visualisation
+
+### Business Intelligence
+
+- Storytelling with Data
+- Dashboard Design
+- Business Insights
+
+---
+
+## 📚 What I Learned
+
+This project helped me improve my skills in:
+
+- Creating interactive dashboards
+- Analysing business data
+- Designing clear visualisations
+- Presenting data in a meaningful way
+- Turning data into useful business insights
+
+---
+
+## 🚀 Future Improvements
+
+In the future, I would like to:
+
+- Add sales forecasting
+- Compare different console generations
+- Include additional KPIs
+- Create a Power BI version of the dashboard
+- Expand the dataset with more recent sales data
 
 ---
 
 ## 📁 Repository Structure
 
-```
+```text
 Global-Video-Game-Sales-Analysis-Tableau/
 │
 ├── README.md
@@ -120,16 +217,164 @@ Global-Video-Game-Sales-Analysis-Tableau/
 
 ---
 
+## 👤 Author
+
+**Wioletta Zajac**
+
+### Tableau Public Portfolio
+
+https://public.tableau.com/app/profile/wioletta.zajac## 🧹 Data Preparation
+
+Before creating the dashboard, the dataset was checked and prepared.
+
+The preparation included:
+
+- Checking for missing values
+- Reviewing data types
+- Formatting the release year
+- Checking that regional sales matched global sales
+- Removing unnecessary fields
+- Preparing the data for Tableau
+
+---
+
+## 🔄 Project Workflow
+
+1. Collected the dataset
+2. Cleaned and prepared the data
+3. Imported the data into Tableau
+4. Created calculated fields
+5. Built the dashboard
+6. Added interactive filters
+7. Improved the dashboard layout
+8. Published the dashboard on Tableau Public
+
+---
+
+## 📈 Dashboard Features
+
+- ✅ Interactive filters
+- ✅ Global sales trends
+- ✅ Regional sales comparison
+- ✅ Sales by platform
+- ✅ Sales by publisher
+- ✅ Sales by genre
+- ✅ Top-selling video games
+- ✅ Interactive dashboard navigation
+
+---
+
+## 📌 Key Performance Indicators (KPIs)
+
+The dashboard includes:
+
+- Total Global Sales
+- Number of Video Games
+- Number of Publishers
+- Number of Platforms
+- Best-selling Genre
+- Highest-selling Publisher
+
+---
+
+## 📸 Dashboard Preview
+
+![Global Video Game Sales Dashboard](images/dashboard.png)
+
+---
+
+## 💡 Key Insights
+
+- Nintendo was the leading publisher during the period analysed.
+- North America recorded the highest overall video game sales.
+- Action and Sports were the best-selling genres.
+- Platform popularity changed over time as new consoles were released.
+- Sales patterns varied between regions, showing different player preferences.
+
+---
+
+## 📌 Business Recommendations
+
+Based on the analysis:
+
+- Focus future game development on popular genres such as Action and Sports.
+- Adapt marketing strategies to suit different regional preferences.
+- Consider platform popularity when planning future game releases.
+- Focus on markets with strong sales potential.
+
+---
+
+## 🛠️ Tools Used
+
+- Tableau Public
+- Data Visualisation
+- Business Intelligence
+- Dashboard Design
+- Exploratory Data Analysis (EDA)
+
+---
+
 ## 🚀 Skills Demonstrated
 
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
+### Data Analysis
+
+- Exploratory Data Analysis (EDA)
+- Trend Analysis
 - KPI Reporting
-- Interactive Dashboard Design
+
+### Tableau
+
+- Interactive Dashboards
+- Dashboard Actions
+- Filters
+- Calculated Fields
+- Data Visualisation
+
+### Business Intelligence
+
 - Storytelling with Data
-- Business Intelligence
-- Tableau
+- Dashboard Design
+- Business Insights
+
+---
+
+## 📚 What I Learned
+
+This project helped me improve my skills in:
+
+- Creating interactive dashboards
+- Analysing business data
+- Designing clear visualisations
+- Presenting data in a meaningful way
+- Turning data into useful business insights
+
+---
+
+## 🚀 Future Improvements
+
+In the future, I would like to:
+
+- Add sales forecasting
+- Compare different console generations
+- Include additional KPIs
+- Create a Power BI version of the dashboard
+- Expand the dataset with more recent sales data
+
+---
+
+## 📁 Repository Structure
+
+```text
+Global-Video-Game-Sales-Analysis-Tableau/
+│
+├── README.md
+├── images/
+│   └── dashboard.png
+├── dataset/
+│   └── Video_Game_Sales.csv
+└── Tableau_Workbook/
+    └── Global_Video_Game_Sales_Analysis.twbx
+```
 
 ---
 
