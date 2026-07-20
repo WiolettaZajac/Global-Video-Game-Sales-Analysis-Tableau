@@ -67,7 +67,7 @@ Before creating the dashboard, the data was prepared by:
 
 ## 📸 Dashboard Preview
 
-![Global Video Game Sales Dashboard](images/tableau_project_dashboard.png)
+![Global Video Game Sales Dashboard](tableau_project_dashboard.png)
 
 ---
 
