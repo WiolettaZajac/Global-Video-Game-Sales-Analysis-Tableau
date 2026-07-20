@@ -6,9 +6,7 @@ An interactive Tableau dashboard **analysing** global video game sales between *
 
 ## 📊 Live Dashboard
 
-🔗 **View the interactive dashboard:**
-
-https://public.tableau.com/app/profile/wioletta.zajac/viz/GlobalVideoGameSalesAnalysisTableauDashboard/VideoGameSalesAnalysisDashboard19802010
+🔗 **[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/wioletta.zajac/viz/GlobalVideoGameSalesAnalysisTableauDashboard/VideoGameSalesAnalysisDashboard19802010)**
 
 ---
 
