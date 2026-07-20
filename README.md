@@ -1,6 +1,8 @@
 # 🎮 Global Video Game Sales Analysis (Tableau)
 
-An interactive Tableau dashboard exploring **global video game sales from 1980 to 2010**. The dashboard provides insights into sales trends, regional performance, platform popularity, genres, publishers, and top-selling games through interactive visualizations.
+An interactive Tableau dashboard **analysing** global video game sales between **1980 and 2010**. The aim of this project was to turn historical sales data into an interactive dashboard that helps users explore sales trends, compare regional performance, and identify the most successful games, platforms, publishers, and genres.
+
+The dashboard uses interactive visualisations and filters to help users explore the data and answer business questions.
 
 ---
 
@@ -14,16 +16,16 @@ https://public.tableau.com/app/profile/wioletta.zajac/viz/GlobalVideoGameSalesAn
 
 ## 📖 Project Overview
 
-The objective of this project was to analyze historical video game sales data and transform it into an interactive business intelligence dashboard using **Tableau**.
+This project analyses historical video game sales data using Tableau. The dashboard was designed to present the data in a clear and interactive way, making it easier to identify trends, compare regions, and gain useful business insights.
 
-The dashboard enables users to:
+Users can:
 
 - Explore global sales trends over time
 - Compare sales across different regions
-- Analyze performance by platform and publisher
+- Analyse platform and publisher performance
 - Identify the best-selling games
-- Discover the most popular game genres
-- Interact with filters for deeper analysis
+- Explore the most popular genres
+- Use interactive filters to investigate the data
 
 ---
 
