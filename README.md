@@ -70,13 +70,13 @@ Before creating the dashboard, the data was prepared by:
 
 ## 📁 Files
 
-- [Tableau Dashboard](https://public.tableau.com/app/profile/wioletta.zajac/viz/GlobalVideoGameSalesAnalysisTableauDashboard/VideoGameSalesAnalysisDashboard19802010) – Interactive Tableau dashboard
+- [Tableau Workbook](dashboard/global_video_game_sales_dashboard.twbx) – Source workbook for the interactive dashboard.
 
 ## 📷 Dashboard Preview
 
 The dashboard allows users to interact with the data using filters to explore video game sales by year, region, platform, publisher, and genre.
 
-![Global Video Game Sales Dashboard](tableau_project_dashboard.png)
+![Global Video Game Sales Dashboard](images/tableau_project_dashboard.png)
 
 ## ❓ Business Questions Answered
 
