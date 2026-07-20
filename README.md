@@ -20,13 +20,11 @@ This project analyses historical video game sales data using Tableau. The dashbo
 
 Users can:
 
-- Explore global sales trends over time
-- Compare sales across different regions
-- Analyse platform and publisher performance
-- Identify the best-selling games
-- Explore the most popular genres
-- Use interactive filters to investigate the data
-
+- Filter by platform
+- Filter by genre
+- Compare regional sales
+- Explore publisher performance
+- View the top-selling games
 ---
 
 ## 🎯 Business Questions
@@ -328,7 +326,9 @@ Based on the analysis:
 - Dashboard Actions
 - Filters
 - Calculated Fields
-- Data Visualisation
+- Parameters (if used)
+- Tooltips
+- Charts and Maps
 
 ### Business Intelligence
 
@@ -376,7 +376,12 @@ Global-Video-Game-Sales-Analysis-Tableau/
     └── Global_Video_Game_Sales_Analysis.twbx
 ```
 
+
+## 🎯 About
+
+This project was completed as part of my data analytics portfolio to demonstrate my Tableau, data visualisation and business analysis skills.
 ---
+
 
 ## 👤 Author
 
